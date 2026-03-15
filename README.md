@@ -12,7 +12,7 @@ Ce dépôt contient l'ensemble des documents de soutenance pour le titre profess
 ├── dossier_projet.pdf
 ├── presentation.pdf
 
-## Projet d'application mobile - TaskFlow
+## 📱 Projet d'application mobile - TaskFlow
 
 Dépôts associés au projet :
 - API (Node.js/Express) : https://github.com/allecomte/api-task-flow
