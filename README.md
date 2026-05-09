@@ -4,13 +4,9 @@ Ce dépôt contient l'ensemble des documents de soutenance pour le titre profess
 
 ## 📚 Contenu du dépôt
 
-- Dossier de projet PDF
-- Dossier professionnel PDF
 - Dossier professionnel DOCX
-
-├── dossier_projet.pdf
-├── dossier_professionnel.pdf
-├── dossier_professionnel.docx
+- Dossier professionnel PDF
+- Dossier de projet PDF
 
 ## 📱 Projet d'application mobile - TaskFlow
 
