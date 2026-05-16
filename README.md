@@ -7,7 +7,8 @@ Ce dépôt contient l'ensemble des documents de soutenance pour le titre profess
 - Dossier professionnel DOCX
 - Dossier professionnel PDF
 - Dossier de projet PDF
-- Livret ECF
+- Livret ECF   
+- Présentation du 18/05/2026 PDF                              
 
 ## 📱 Projet d'application mobile - TaskFlow
 
